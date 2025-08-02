@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-api", "net-api\net-api.csproj", "{A6BA6531-84E7-434F-B892-4032B69F7404}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C07AF1F-79F5-4DB9-A432-D5D40C097DB9}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BA6531-84E7-434F-B892-4032B69F7404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BA6531-84E7-434F-B892-4032B69F7404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BA6531-84E7-434F-B892-4032B69F7404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BA6531-84E7-434F-B892-4032B69F7404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

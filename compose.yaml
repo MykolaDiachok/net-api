@@ -1,0 +1,7 @@
+﻿services:
+  net-api:
+    image: net-api
+    build:
+      context: .
+      dockerfile: net-api/Dockerfile
+
